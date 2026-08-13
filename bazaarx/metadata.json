@@ -1,6 +1,0 @@
-{
-  "name": "Enterprise E-Commerce Platform",
-  "description": "Full-featured e-commerce storefront and comprehensive admin management panel.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
